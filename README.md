@@ -7,7 +7,7 @@ UI Clone - Twitter Responsive
 
 <hr>
 
-![GIF](https://github.com/diegoaraujo85/twitter-clone/.github/twitter-clone.gif)
+  ![GIF](./.github/twitter-clone.gif)
 
 <hr>
 
